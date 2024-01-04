@@ -9,16 +9,19 @@
     background-color: blue;
     margin: 5px;
     padding: 10px;
+    border: solid tomato;
 }
 
 .second{
     background-color: brown;
     margin: 5px;
     padding: 10px;
+    border: solid royalblue;
 }
 
 .third{
     background-color: blueviolet;
     margin: 5px;
     padding: 10px;
+    border: solid red;
 }
