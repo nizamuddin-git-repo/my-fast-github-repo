@@ -1,6 +1,24 @@
 
-div{
+/* div{
     background-color: tomato;
     padding: 10px;
     margin: 15px;
+} */
+
+.fast{
+    background-color: blue;
+    margin: 5px;
+    padding: 10px;
+}
+
+.second{
+    background-color: brown;
+    margin: 5px;
+    padding: 10px;
+}
+
+.third{
+    background-color: blueviolet;
+    margin: 5px;
+    padding: 10px;
 }
